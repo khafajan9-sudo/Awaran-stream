@@ -1,0 +1,13 @@
+<resources>
+    <style name="Theme.AwaranStream" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <item name="colorPrimary">@color/gold</item>
+        <item name="colorPrimaryDark">@color/gold_dark</item>
+        <item name="colorSecondary">@color/gold</item>
+        <item name="android:statusBarColor">@color/gold</item>
+        <item name="android:windowBackground">@color/white</item>
+    </style>
+    <style name="GoldBtn" parent="Widget.MaterialComponents.Button.TextButton">
+        <item name="android:textColor">@color/white</item>
+        <item name="android:minWidth">0dp</item>
+    </style>
+</resources>
